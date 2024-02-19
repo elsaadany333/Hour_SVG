@@ -1,0 +1,34 @@
+#uhr{
+    border: solid;
+}
+
+#face{
+    stroke-width: 2px;
+    stroke: blue;
+
+    fill: rgb(199, 241, 13);
+}
+
+#ticks{
+    stroke-width: 2px;
+    stroke: black;
+}
+
+#ziffern{
+    font-size: 8px;
+    text-anchor: middle;
+    fill: blue;
+}
+
+#hours{
+    stroke-width: 2px;
+    stroke: aliceblue;
+}
+#minutes{
+    stroke-width: 1px;
+    stroke: black;
+}
+#seconds{
+    stroke-width: 0.2px;
+    stroke: red;
+}
